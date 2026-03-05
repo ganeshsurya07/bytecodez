@@ -1,0 +1,20 @@
+{
+ "plant_disease": {
+
+  "English": {
+   "description": "This disease affects plant leaves and reduces crop yield.",
+   "treatment": "Apply recommended fungicide and remove infected leaves."
+  },
+
+  "Hindi": {
+   "description": "यह रोग पौधों की पत्तियों को प्रभावित करता है और उत्पादन कम करता है।",
+   "treatment": "संक्रमित पत्तियों को हटाएं और फंगीसाइड का उपयोग करें।"
+  },
+
+  "Telugu": {
+   "description": "ఈ వ్యాధి మొక్కల ఆకులను ప్రభావితం చేసి దిగుబడిని తగ్గిస్తుంది.",
+   "treatment": "సంక్రమిత ఆకులను తొలగించి ఫంగిసైడ్ ఉపయోగించండి."
+  }
+
+ }
+}
